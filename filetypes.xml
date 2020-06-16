@@ -3,8 +3,6 @@
     <extensionMap>
       <mapping ext="pth" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
-      <mapping ext="dll" type="PLAIN_TEXT" />
-      <removed_mapping ext="dll" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
